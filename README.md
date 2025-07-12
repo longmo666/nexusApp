@@ -2,7 +2,7 @@
 ## <u>免责声明</u>
 
 不要瞎几把运行我编译好的，免得私钥丢了赖我！
-
+curl -L -o nexus.sh https://raw.githubusercontent.com/longmo666/nexusApp/main/nexus.sh
 代码已开源，自行编译！
 
 用我编译好的默认你电脑没东西不怕偷！！！
